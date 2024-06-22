@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Ariful islam
-#### Web Developer, Programmer.
 ![Web Developer, Programmer.](https://scontent.fdac175-1.fna.fbcdn.net/v/t39.30808-6/428479985_122130462680128837_5467958365072101099_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Hns04fq-YgQQ7kNvgEDewgO&_nc_ht=scontent.fdac175-1.fna&oh=00_AYBGsivjivnb4J0xhHqF0w9_m5e68eVgwazKOHnQXu_E9Q&oe=667C6475)
+### Hi there 👋, I'm Ariful islam
+#### Web Developer, Programmer, Learner.
 
-I am new web developer..
+I am a New web developer..
 
 Skills: Python / REACT / JS / HTML / CSS
 
